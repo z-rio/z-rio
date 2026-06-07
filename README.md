@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there am Belam👋
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzuooos5wpno2sevy5jvgzmk2m&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzuooos5wpno2sevy5jvgzmk2m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color_cover=true">
+  </a>
+</p>
 
 <!--
 **z-rio/z-rio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
