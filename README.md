@@ -61,4 +61,4 @@
   ╚══════════════════════════╝
 ```
 
-> ✦ if it runs in prod and no one notices — perfect.
+> ✦ if it runs in prod and no one notices - perfect.
